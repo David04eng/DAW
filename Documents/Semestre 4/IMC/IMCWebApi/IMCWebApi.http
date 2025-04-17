@@ -1,0 +1,6 @@
+@IMCWebApi_HostAddress = http://localhost:5062
+
+GET {{IMCWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
